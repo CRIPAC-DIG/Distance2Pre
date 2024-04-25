@@ -2,7 +2,7 @@
 
 <img src="distance2pre.png" alt="model" style="zoom: 50%;" />
 
-This is the code for the AAAI 2024 Paper: [Distance2Pre: Personalized Spatial Preference for Next Point-of-Interest Prediction](https://link.springer.com/chapter/10.1007/978-3-030-16142-2_23).
+This is the code for the PAKDD 2019 Paper: [Distance2Pre: Personalized Spatial Preference for Next Point-of-Interest Prediction](https://link.springer.com/chapter/10.1007/978-3-030-16142-2_23).
 
 ## Usage
 
@@ -25,5 +25,5 @@ Please cite our paper if you use the code:
 }
 ```
 
-## 
+## Contact information
 If you have other questions or confusions, please send email to [cuiqiang1990@hotmail.com].
